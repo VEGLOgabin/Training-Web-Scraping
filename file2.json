@@ -1,0 +1,342 @@
+{
+    "hackathons": [
+        {
+            "id": 17170,
+            "title": "EducateHacks 2024",
+            "displayed_location": {
+                "icon": "globe",
+                "location": "Online"
+            },
+            "open_state": "upcoming",
+            "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/339/963/datas/medium_square.png",
+            "analytics_identifier": "EducateHacks 2024 (17170)",
+            "url": "https://educatehacks-2024.devpost.com/",
+            "time_left_to_submission": "Upcoming",
+            "submission_period_dates": "Apr 05 - 07, 2024",
+            "themes": [
+                {
+                    "id": 19,
+                    "name": "Education"
+                },
+                {
+                    "id": 22,
+                    "name": "Open Ended"
+                },
+                {
+                    "id": 13,
+                    "name": "Social Good"
+                }
+            ],
+            "prize_amount": "$\u003cspan data-currency-value\u003e7,984\u003c/span\u003e",
+            "registrations_count": 926,
+            "featured": false,
+            "organization_name": "EducateHacks",
+            "winners_announced": false,
+            "submission_gallery_url": "https://educatehacks-2024.devpost.com/project-gallery",
+            "start_a_submission_url": "https://educatehacks-2024.devpost.com/challenges/start_a_submission",
+            "invite_only": false,
+            "eligibility_requirement_invite_only_description": null
+        },
+        {
+            "id": 19511,
+            "title": "Boost Hacks II",
+            "displayed_location": {
+                "icon": "globe",
+                "location": "Online"
+            },
+            "open_state": "upcoming",
+            "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/671/212/datas/medium_square.png",
+            "analytics_identifier": "Boost Hacks II (19511)",
+            "url": "https://boost-hacks-ii.devpost.com/",
+            "time_left_to_submission": "Upcoming",
+            "submission_period_dates": "Apr 17 - 25, 2024",
+            "themes": [
+                {
+                    "id": 23,
+                    "name": "Beginner Friendly"
+                },
+                {
+                    "id": 22,
+                    "name": "Open Ended"
+                },
+                {
+                    "id": 13,
+                    "name": "Social Good"
+                }
+            ],
+            "prize_amount": "$\u003cspan data-currency-value\u003e4,035\u003c/span\u003e",
+            "registrations_count": 391,
+            "featured": false,
+            "organization_name": "SciLite",
+            "winners_announced": false,
+            "submission_gallery_url": "https://boost-hacks-ii.devpost.com/project-gallery",
+            "start_a_submission_url": "https://boost-hacks-ii.devpost.com/challenges/start_a_submission",
+            "invite_only": false,
+            "eligibility_requirement_invite_only_description": null
+        },
+        {
+            "id": 18447,
+            "title": "Web3 and AI Unstoppable Hackathon | Unstoppable Domains \u0026 AWS",
+            "displayed_location": {
+                "icon": "globe",
+                "location": "Online"
+            },
+            "open_state": "upcoming",
+            "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/818/168/datas/medium_square.png",
+            "analytics_identifier": "Web3 and AI Unstoppable Hackathon | Unstoppable Domains \u0026 AWS (18447)",
+            "url": "https://ud-aws-hackathon.devpost.com/",
+            "time_left_to_submission": "Upcoming",
+            "submission_period_dates": "Apr 15 - Jun 10, 2024",
+            "themes": [
+                {
+                    "id": 1,
+                    "name": "Blockchain"
+                },
+                {
+                    "id": 6,
+                    "name": "Machine Learning/AI"
+                },
+                {
+                    "id": 25,
+                    "name": "Web"
+                }
+            ],
+            "prize_amount": "$\u003cspan data-currency-value\u003e187,000\u003c/span\u003e",
+            "registrations_count": 78,
+            "featured": true,
+            "organization_name": "Unstoppable Domains",
+            "winners_announced": false,
+            "submission_gallery_url": "https://ud-aws-hackathon.devpost.com/project-gallery",
+            "start_a_submission_url": "https://ud-aws-hackathon.devpost.com/challenges/start_a_submission",
+            "invite_only": false,
+            "eligibility_requirement_invite_only_description": null
+        },
+        {
+            "id": 20719,
+            "title": "Lisk Onchain Spring Hackathon",
+            "displayed_location": {
+                "icon": "globe",
+                "location": "Online"
+            },
+            "open_state": "upcoming",
+            "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/820/365/datas/medium_square.png",
+            "analytics_identifier": "Lisk Onchain Spring Hackathon (20719)",
+            "url": "https://lisk.devpost.com/",
+            "time_left_to_submission": "Upcoming",
+            "submission_period_dates": "Apr 02 - May 15, 2024",
+            "themes": [
+                {
+                    "id": 1,
+                    "name": "Blockchain"
+                },
+                {
+                    "id": 3,
+                    "name": "Fintech"
+                },
+                {
+                    "id": 25,
+                    "name": "Web"
+                }
+            ],
+            "prize_amount": "$\u003cspan data-currency-value\u003e38,750\u003c/span\u003e",
+            "registrations_count": 75,
+            "featured": true,
+            "organization_name": "Lisk",
+            "winners_announced": false,
+            "submission_gallery_url": "https://lisk.devpost.com/project-gallery",
+            "start_a_submission_url": "https://lisk.devpost.com/challenges/start_a_submission",
+            "invite_only": false,
+            "eligibility_requirement_invite_only_description": null
+        },
+        {
+            "id": 20856,
+            "title": "Databricks Generative AI World Cup",
+            "displayed_location": {
+                "icon": "globe",
+                "location": "Online"
+            },
+            "open_state": "upcoming",
+            "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/811/927/datas/medium_square.png",
+            "analytics_identifier": "Databricks Generative AI World Cup (20856)",
+            "url": "https://generativeai-worldcup.devpost.com/",
+            "time_left_to_submission": "Upcoming",
+            "submission_period_dates": "Apr 15 - May 06, 2024",
+            "themes": [
+                {
+                    "id": 21,
+                    "name": "Enterprise"
+                },
+                {
+                    "id": 6,
+                    "name": "Machine Learning/AI"
+                },
+                {
+                    "id": 28,
+                    "name": "Databases"
+                }
+            ],
+            "prize_amount": "$\u003cspan data-currency-value\u003e117,500\u003c/span\u003e",
+            "registrations_count": 48,
+            "featured": false,
+            "organization_name": "Databricks",
+            "winners_announced": false,
+            "submission_gallery_url": "https://generativeai-worldcup.devpost.com/project-gallery",
+            "start_a_submission_url": "https://generativeai-worldcup.devpost.com/challenges/start_a_submission",
+            "invite_only": false,
+            "eligibility_requirement_invite_only_description": null
+        },
+        {
+            "id": 20655,
+            "title": "YHACK 2024",
+            "displayed_location": {
+                "icon": "map-marker-alt",
+                "location": "Tsai CITY "
+            },
+            "open_state": "upcoming",
+            "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/777/813/datas/medium_square.png",
+            "analytics_identifier": "YHACK 2024 (20655)",
+            "url": "https://yhack-2024.devpost.com/",
+            "time_left_to_submission": "Upcoming",
+            "submission_period_dates": "Mar 30 - 31, 2024",
+            "themes": [
+                {
+                    "id": 23,
+                    "name": "Beginner Friendly"
+                },
+                {
+                    "id": 19,
+                    "name": "Education"
+                },
+                {
+                    "id": 13,
+                    "name": "Social Good"
+                }
+            ],
+            "prize_amount": "$\u003cspan data-currency-value\u003e14,800\u003c/span\u003e",
+            "registrations_count": 38,
+            "featured": true,
+            "organization_name": "yale university ",
+            "winners_announced": false,
+            "submission_gallery_url": "https://yhack-2024.devpost.com/project-gallery",
+            "start_a_submission_url": "https://yhack-2024.devpost.com/challenges/start_a_submission",
+            "invite_only": false,
+            "eligibility_requirement_invite_only_description": null
+        },
+        {
+            "id": 20984,
+            "title": "HackPrinceton Spring 2024",
+            "displayed_location": {
+                "icon": "map-marker-alt",
+                "location": "Princeton University - Robertson Hall"
+            },
+            "open_state": "upcoming",
+            "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/818/159/datas/medium_square.png",
+            "analytics_identifier": "HackPrinceton Spring 2024 (20984)",
+            "url": "https://hackprinceton-spring-2024.devpost.com/",
+            "time_left_to_submission": "Upcoming",
+            "submission_period_dates": "Mar 29 - 31, 2024",
+            "themes": [
+                {
+                    "id": 19,
+                    "name": "Education"
+                },
+                {
+                    "id": 16,
+                    "name": "Health"
+                },
+                {
+                    "id": 13,
+                    "name": "Social Good"
+                }
+            ],
+            "prize_amount": "$\u003cspan data-currency-value\u003e18,000\u003c/span\u003e",
+            "registrations_count": 29,
+            "featured": true,
+            "organization_name": "HackPrinceton",
+            "winners_announced": false,
+            "submission_gallery_url": "https://hackprinceton-spring-2024.devpost.com/project-gallery",
+            "start_a_submission_url": "https://hackprinceton-spring-2024.devpost.com/challenges/start_a_submission",
+            "invite_only": false,
+            "eligibility_requirement_invite_only_description": null
+        },
+        {
+            "id": 20146,
+            "title": "MIT Bitcoin Hackathon: Scaling Up",
+            "displayed_location": {
+                "icon": "globe",
+                "location": "Online"
+            },
+            "open_state": "upcoming",
+            "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/714/575/datas/medium_square.png",
+            "analytics_identifier": "MIT Bitcoin Hackathon: Scaling Up (20146)",
+            "url": "https://mitbitcoin.devpost.com/",
+            "time_left_to_submission": "Upcoming",
+            "submission_period_dates": "Apr 19 - 21, 2024",
+            "themes": [
+                {
+                    "id": 23,
+                    "name": "Beginner Friendly"
+                },
+                {
+                    "id": 1,
+                    "name": "Blockchain"
+                },
+                {
+                    "id": 3,
+                    "name": "Fintech"
+                }
+            ],
+            "prize_amount": "$\u003cspan data-currency-value\u003e10,000\u003c/span\u003e",
+            "registrations_count": 139,
+            "featured": false,
+            "organization_name": "mit",
+            "winners_announced": false,
+            "submission_gallery_url": "https://mitbitcoin.devpost.com/project-gallery",
+            "start_a_submission_url": "https://mitbitcoin.devpost.com/challenges/start_a_submission",
+            "invite_only": false,
+            "eligibility_requirement_invite_only_description": null
+        },
+        {
+            "id": 16194,
+            "title": "NextStep Hacks 2024",
+            "displayed_location": {
+                "icon": "globe",
+                "location": "Online"
+            },
+            "open_state": "upcoming",
+            "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/723/456/datas/medium_square.gif",
+            "analytics_identifier": "NextStep Hacks 2024 (16194)",
+            "url": "https://nextstep2023.devpost.com/",
+            "time_left_to_submission": "Upcoming",
+            "submission_period_dates": "Jun 28 - 30, 2024",
+            "themes": [
+                {
+                    "id": 23,
+                    "name": "Beginner Friendly"
+                },
+                {
+                    "id": 19,
+                    "name": "Education"
+                },
+                {
+                    "id": 13,
+                    "name": "Social Good"
+                }
+            ],
+            "prize_amount": "$\u003cspan data-currency-value\u003e100\u003c/span\u003e",
+            "registrations_count": 105,
+            "featured": false,
+            "organization_name": "HackAlphaX",
+            "winners_announced": false,
+            "submission_gallery_url": "https://nextstep2023.devpost.com/project-gallery",
+            "start_a_submission_url": "https://nextstep2023.devpost.com/challenges/start_a_submission",
+            "invite_only": false,
+            "eligibility_requirement_invite_only_description": null
+        }
+    ],
+    "meta": {
+        "total_count": 9349,
+        "per_page": 9,
+        "fuzzy": false
+    }
+}
